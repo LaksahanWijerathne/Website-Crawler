@@ -87,7 +87,7 @@ def run():
         contine()
         #username,password =reader[1]
 #----------------------------------------------------------------------------------
-
+#This Part will manage your Password and username
 #----------------------------------------------------------------------------------
 def clicked():
     with open("Data.csv","w") as file:
